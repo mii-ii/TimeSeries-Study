@@ -1,5 +1,4 @@
-# 🖼️ ImageNet Image Classification
-: MLP vs CNN Performance Comparison
+# ImageNet Image Classification: MLP vs CNN Performance Comparison
 
 ## 1. 프로젝트 개요 및 목표 (Project Overview)
 * **분류 대상:** ImageNet 하위 4개 클래스 (고양이, 개, 말, 얼룩말)
